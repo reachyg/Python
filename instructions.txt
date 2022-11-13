@@ -1,0 +1,8 @@
+Make sure you have python installed.
+Open the python file createfoldersinbash.
+Change the day variable to RepoXX (XX being the day of Arena).
+Change the exercises variable to number of exercises in the day + 1.
+Make sure you have path :C\Arena
+Run program.
+A txt file is created in the :C\Arena path.
+Copy the txt file into git bash and execute.
